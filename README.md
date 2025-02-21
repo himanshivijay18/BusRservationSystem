@@ -9,3 +9,5 @@ Project Highlights:
 5️⃣ Booked Tickets: View all booked tickets with a cancellation feature that updates the status in real time.
 
 This project showcases my skills in Java, Spring MVC, and full-stack development, with a focus on creating user-friendly and efficient applications.
+
+Here is the video version of the project : https://www.linkedin.com/posts/himanshi-vijay-a38471254_datastructures-algorithms-leetcode-activity-7259246164053528577-UDcE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD63c4wBVzVGWkuyf7hBUqZEtnz_IRF59Oo
